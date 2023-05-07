@@ -13,7 +13,7 @@ q-layout.shadow-2.rounded-borders(
 
     //- Insert page here
     q-page-container
-        q-page.q-pa-md
+        q-page.q-pa-sm
             slot
 
 </template>
