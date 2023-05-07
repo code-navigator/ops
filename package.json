@@ -11,7 +11,9 @@
   "devDependencies": {
     "@types/node": "^18",
     "nuxt": "3.0.0",
-    "nuxt-quasar-ui": "^1.7.3"
+    "nuxt-quasar-ui": "^1.7.3",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0"
   },
   "dependencies": {
     "@quasar/extras": "^1.16.3",
