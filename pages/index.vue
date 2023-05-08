@@ -38,6 +38,7 @@ q-splitter(
             template(v-slot:after)
                 div.q-pa-md
                     div.text-h4.q-mb-md After
+                    BidOperation
                     div.q-my-md(
                         v-for="n in 20" 
                         :key="n"
